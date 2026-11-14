@@ -7,7 +7,7 @@ local player = Players.LocalPlayer
 
 -- CẤU HÌNH TỐC ĐỘ & ANIMATION
 local NORMAL_SPEED = 16
-local SPRINT_SPEED = 32
+local SPRINT_SPEED = 50
 local SPRINT_KEY = Enum.KeyCode.LeftShift
 local CUSTOM_ANIM_ID = "rbxassetid://656118852" -- Thay ID của bạn vào đây
 
